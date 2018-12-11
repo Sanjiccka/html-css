@@ -1,0 +1,22 @@
+body {
+    background-color: palevioletred
+}
+h1{
+    background-color: blueviolet
+}
+.paraf{
+    color: yellow
+}
+#sec{
+    border: 5px dotted blue;
+}
+input [type="text"]
+{ border:  5px solid red;
+    width: 200px;
+   
+}
+#button {
+    border-color: navy;
+    background-color:red;
+    color:white;
+}
